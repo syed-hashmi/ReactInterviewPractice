@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":[".saroshClass{\n    display: flex;\n    flex-direction: row;\n    flex-wrap: wrap;\n    justify-content: flex-start;\n}"],"names":[],"version":3,"file":"MyFirstReact.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
